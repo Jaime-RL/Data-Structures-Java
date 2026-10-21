@@ -4,3 +4,8 @@ bin/
 .classpath
 .project
 .settings/
+.space/
+.idea/
+*.iml
+.vscode/
+*.zip
