@@ -18,7 +18,7 @@ Implementations of classic **abstract data types** in Java — binary trees, has
 
 Each project follows the Eclipse layout (`<project>/src/<package>`). Import a folder as a Java project in Eclipse/IntelliJ, add **JUnit 5** to the build path and run the `*Test.java` classes.
 
-The GUIs and timing programs in projects 11, 12 and 14 use `fundamentos`, a small I/O and charting library provided by the Universidad de Cantabria for this course, which must be added to the build path.
+The GUIs and timing programs in projects 11, 12 and 14 use `fundamentos`, a small library of simple GUI dialogs (menus, input forms, messages) provided by the Universidad de Cantabria for this course, which must be added to the build path.
 
 ## Tech
 
